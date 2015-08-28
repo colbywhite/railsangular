@@ -1,0 +1,2 @@
+railsangular = angular.module('railsangular',[
+])
